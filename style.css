@@ -192,7 +192,7 @@ h2 {
     bottom: 12%;
     left: 50%;
     transform: translateX(-50%);
-    font-size: clamp(8px, 1.8vw, 10px);
+    font-size: clamp(12px, 1.8vw, 14px);
     color: #5d3a1a;
     z-index: 20;
     cursor: pointer;

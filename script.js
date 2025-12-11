@@ -2,13 +2,13 @@ let clickCount = 0;
 let isPlaying = false;
 
 const messages = [
-    "Barabarakallah fii umrik de..",
-    "Maaf ya de, mas Rezha belum bisa kasih kado",
-    "Hanya ini dan doa terbaik",
-    "selalu saya sama bunda ayah ya de..",
-    "Mas Rezha doakan",
-    "Cita cita ade bisa tercapai",
-    "Amiin ya allah.."
+    "isi kata - kata",
+    "isi kata - kata",
+    "isi kata - kata",
+    "isi kata - kata",
+    "isi kata - kata",
+    "isi kata - kata",
+    "isi kata - kata"
 ];
 
 function celebrate() {
